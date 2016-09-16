@@ -4,5 +4,8 @@
 public class Test {
     static void main(String[] args){
         System.out.print("你好？");
+
+
+        System.out.print("我觉得不错");
     }
 }
